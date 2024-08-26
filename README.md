@@ -1,5 +1,5 @@
 
-![logo]()
+![logo](https://www.canva.com/design/DAGO9JMZ8Ck/JN-MJIigRSNl5NpfHktJSQ/edit?utm_content=DAGO9JMZ8Ck&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm N.Aakansha Reddy</h1>
 <h3 align="center">Motivated recent graduate with a passion for data science and a willingness to learn.</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.bHJStNCPbFy72p7TOMKvvgHaFj?rs=1&pid=ImgDetMain">
