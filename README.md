@@ -1,5 +1,5 @@
 
-![logo](![Grey and White Simple Modern Marketing Linkedln Background Photo](https://github.com/user-attachments/assets/1299c42e-3424-4594-8fd2-e89d79818b33))
+![logo]![Grey and White Simple Modern Marketing Linkedln Background Photo](https://github.com/user-attachments/assets/1299c42e-3424-4594-8fd2-e89d79818b33)
 <h1 align="center">Hi 👋, I'm N.Aakansha Reddy</h1>
 <h3 align="center">Motivated recent graduate with a passion for data science and a willingness to learn.</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.bHJStNCPbFy72p7TOMKvvgHaFj?rs=1&pid=ImgDetMain">
