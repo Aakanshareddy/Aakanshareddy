@@ -1,4 +1,4 @@
-# aakanshareddy02
+
 ![logo]()
 <h1 align="center">Hi 👋, I'm N.Aakansha Reddy</h1>
 <h3 align="center">Motivated recent graduate with a passion for data science and a willingness to learn.</h3>
